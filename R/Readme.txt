@@ -37,3 +37,5 @@ For NetworkShrinkage, coverage, and BestHit refer to paper
 score_threshold: 
 STRINGversion: Indicated which version of STRING database should 
 program search in for the score of protein-protein interactions.
+
+Payman Nickchi  &  Abdollah Safari
