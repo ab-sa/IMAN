@@ -38,4 +38,5 @@ score_threshold:
 STRINGversion: Indicated which version of STRING database should 
 program search in for the score of protein-protein interactions.
 
-Payman Nickchi  &  Abdollah Safari
+Payman Nickchi  (pnickchi [at] sfu [dot] ca)
+Abdollah Safari (asafari [at] sfu [dot] ca)
